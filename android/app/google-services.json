@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681432995103",
+    "project_id": "kanban-task-management-fee54",
+    "storage_bucket": "kanban-task-management-fee54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681432995103:android:6c24fd4fac921b5f3d8c2a",
+        "android_client_info": {
+          "package_name": "com.devaxiss.homechallenge.home_challenge_kanban_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fYJsvVYlrj64h38E7q2nCMkxSIsM64g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
