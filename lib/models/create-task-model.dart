@@ -13,7 +13,6 @@ class CreateTaskModel{
   List<Map<String,dynamic>>comments;
   String taskId;
 
-//<editor-fold desc="Data Methods">
   CreateTaskModel({
     required this.taskName,
     required this.taskDate,
